@@ -1,0 +1,49 @@
+body {
+	background-color: black;
+}
+#header {
+	text-align: center;
+}
+
+#header-text {
+	font-family: Verdana;
+	color: white;
+}
+
+#link {
+	color: aquamarine;
+	font-size: 16px;
+
+}
+
+#phone-icon {
+	text-align: center;
+}
+
+#phone-video {
+	text-align: center;
+}
+
+.subheader-1 {
+	font-family: Verdana;
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+
+#p-1 {
+	font-family: Verdana;
+	font-size: 21px;
+	color: gray;
+
+}
+
+.center {
+	text-align: center;
+}
+
+#footer-text {
+	text-align: right;
+	color: gray;
+	font-size: 20px;
+}
